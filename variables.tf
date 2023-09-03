@@ -1,3 +1,3 @@
 variable "resource_group_name" {
-  default = "myTFResourceGroup01"
+  default = "myTFResourceGroup03"
 }
